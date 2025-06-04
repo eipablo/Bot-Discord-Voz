@@ -84,7 +84,7 @@ async def on_voice_state_update(member, before, after):
             except Exception as error:
                 print(f'❌ Erro ao deletar canal: {error}')
 
-# Execução segura do bot
+# Execução do bot
 try:
     print('🔄 Iniciando bot...')
     bot.run(TOKEN)
