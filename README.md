@@ -7,7 +7,7 @@ Bot para Discord que cria canais de voz temporários automaticamente quando um u
 ## Funcionalidades
 
 - Criação automática de canais de voz temporários personalizados com o nome do usuário.  
-- Limite de 7 usuários por canal temporário.  
+- Limite de 7 usuários por canal temporário (ajustável).  
 - Permissões automáticas para o dono do canal.  
 - Remoção dos canais temporários quando ficam vazios.  
 
