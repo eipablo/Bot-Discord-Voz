@@ -24,4 +24,4 @@ Bot para Discord que cria canais de voz temporários automaticamente quando um u
 ## Contato
 Se tiver dúvidas, pode entrar em contato comigo:
 Pablo Vinícius Silva Souza
-[E-mail](pablo.vs.souza@gmail.com) | [GitHub](https://www.github.com/eipablo)
+[👉 pablo.vs.souza@gmail.com](mailto:pablo.vs.souza@gmail.com?subject=Contato&body=Olá%20Pablo,%0A%0AGostaria%20de%20conversar%20sobre...%0A%0ADetalhes:%0A-%20%0A-%20%0A%0ADisponibilidade:%0A-%20%0A%0AAtenciosamente,) | [GitHub](https://www.github.com/eipablo)
